@@ -8,7 +8,7 @@ const NavbarHome = () => {
       <Container>
         <Navbar expand="xxl" variant="dark">
           <Container fluid>
-            <Navbar.Brand href="#home">Full Sack Hero</Navbar.Brand>
+            <Navbar.Brand className="font" href="#home">Full Sack Hero</Navbar.Brand>
             <Navbar.Toggle aria-controls="" className="border-0" />
             <Navbar.Collapse
               id="basic-navbar-nav"

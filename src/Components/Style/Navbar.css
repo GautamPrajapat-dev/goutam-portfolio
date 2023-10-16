@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap");
+
 textarea:hover,
 input:hover,
 textarea:active,
@@ -36,4 +38,8 @@ button:hover {
   .link a {
     color: #000;
   }
+}
+
+.font {
+  font-family: "Mochiy Pop One", sans-serif;
 }
