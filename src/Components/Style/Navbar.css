@@ -10,3 +10,30 @@ button:hover {
   outline: 0px !important;
   box-shadow: none !important;
 }
+
+@media (max-width: 768px) {
+  .active {
+    color: red !important;
+  }
+  .link:focus,
+  .nav-link:hover {
+    color: #64e27d !important;
+  }
+  .navbar-position {
+    position: absolute;
+    top: 100%;
+    background: #ffffff;
+    right: 0%;
+    width: 13rem;
+    border-radius: 0.4rem;
+    color: #000;
+  }
+
+  .link {
+    display: flex;
+    align-items: center;
+  }
+  .link a {
+    color: #000;
+  }
+}
