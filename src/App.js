@@ -5,10 +5,9 @@ import NavbarHome from "./Components/Navbar";
 
 const App = () => {
   return (
-    <div className="bg">
+    <div className="bg g-0">
       <NavbarHome />
-      <Home  />
-      
+      <Home />
     </div>
   );
 };
