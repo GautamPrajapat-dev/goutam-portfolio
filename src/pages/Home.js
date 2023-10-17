@@ -8,17 +8,15 @@ const Home = () => {
     Aos.init();
   });
   return (
-    <Container
-      className="text-light h-100 w-100 d-flex align-items-center justify-content-evenly "
-    >
+    <Container className="text-light h-100 w-100 d-flex align-items-center justify-content-around">
       <Row className="d-flex align-items-center ">
-        <Col 
+        <Col
           className=""
           data-aos="fade-left"
           data-aos-anchor-placement="center-bottom"
           data-aos-easing="ease-in-back"
           data-aos-delay="300"
-          data-aos-offset="0"
+          data-aos-offset="2"
         >
           <div>
             <h2>Hi,</h2>
@@ -31,7 +29,7 @@ const Home = () => {
           </p>
           <Button className="text-bg-danger">Hire Me</Button>
         </Col>
-        <Col 
+        <Col
           className="d-flex justify-content-center align-items-center "
           data-aos="zoom-out-down"
           data-aos-anchor-placement="center-bottom"
