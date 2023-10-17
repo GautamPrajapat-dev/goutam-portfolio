@@ -20,7 +20,7 @@ const Home = () => {
         >
           <div>
             <h2>Hi,</h2>
-            <h1>I'm Goutam Prajapat</h1>
+            <h1>I'm Gautam Prajapat</h1>
             <h1>Web Developer</h1>
           </div>
           <p className="">
