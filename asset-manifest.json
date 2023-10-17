@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goutam-portfolio.git/static/css/main.2e6106e3.css",
+    "main.js": "/goutam-portfolio.git/static/js/main.2823000a.js",
+    "static/js/787.b0594869.chunk.js": "/goutam-portfolio.git/static/js/787.b0594869.chunk.js",
+    "static/media/Home.png": "/goutam-portfolio.git/static/media/Home.d615468f12b27814ddef.png",
+    "index.html": "/goutam-portfolio.git/index.html",
+    "main.2e6106e3.css.map": "/goutam-portfolio.git/static/css/main.2e6106e3.css.map",
+    "main.2823000a.js.map": "/goutam-portfolio.git/static/js/main.2823000a.js.map",
+    "787.b0594869.chunk.js.map": "/goutam-portfolio.git/static/js/787.b0594869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e6106e3.css",
+    "static/js/main.2823000a.js"
+  ]
+}
