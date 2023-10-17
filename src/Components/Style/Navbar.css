@@ -12,14 +12,15 @@ button:hover {
   outline: 0px !important;
   box-shadow: none !important;
 }
-.pos {
-  position: absolute !important;
-  top: 0;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
+
+@media (max-width: 990px) {
   .active {
     color: red !important;
+  }
+  .pos {
+    position: absolute !important;
+    top: 0;
+    width: 100% !important;
   }
   .link:focus,
   .nav-link:hover {
